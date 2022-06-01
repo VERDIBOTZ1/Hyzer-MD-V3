@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6285706735450'] 
-global.mods = [] 
-global.prems = [] 
+global.mods = [6283869803330] 
+global.prems = [6285706735450] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'VERDI KAWAII'
@@ -15,7 +15,7 @@ global.gopay = '085706735450'
 //=============『 Info Bot 』=================//
 global.namebot = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://nekopoi.care/ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
