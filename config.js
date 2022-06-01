@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['6285706735450'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'VERDI KAWAII'
+global.numberowner = '6285706735450'
+global.instagram = 'https://instagram.com/VERDI_ZZ'
+global.github = 'https://github.com/VERDIBOTZ1'
+global.dana = '085706735450'
+global.pulsa = '085706735450'
+global.gopay = '085706735450'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+global.web = 'https://nekopoi.care/ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
